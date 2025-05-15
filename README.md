@@ -1,5 +1,5 @@
-# 💫 Sobre Mim:
-🔭 Atualmente trabalhando como Auxiliar de T.I.;<br>🌱 Estou aprendendo REACT;<br>⚡ Adoro Video-Games, Leitura e Animes;<br>💬 Aberto para conversas, sugestões, propostas!
+# 💫 E aí! Eu me chamo Taisey, fique à vontade para me conhecer.
+🔭 Atualmente trabalhando como Auxiliar de T.I.;<br>🌱 Estou aprendendo REACT;<br>⚡ Adoro Video-Games, Leitura, Animes e Tecnologia;<br>💬 Aberto para conversas, sugestões, propostas!
 
 
 ## 🌐 Redes Sociais:
