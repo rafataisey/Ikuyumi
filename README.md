@@ -1,3 +1,7 @@
+<p align="center">
+  <img alt="Studying" src="https://github.com/Ikuyumi/Ikuyumi/blob/main/Studying.jpg" width="300" height="200">
+</p>
+
 ## 💫 E aí! Eu me chamo Taisey, fique à vontade para me conhecer.
 🔭 Atualmente trabalhando como Auxiliar de T.I.;<br>🌱 Estou aprendendo REACT;<br>⚡ Adoro Video-Games, Leitura, Animes e Tecnologia;<br>💬 Aberto para conversas, sugestões, propostas!
 
